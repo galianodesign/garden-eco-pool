@@ -268,7 +268,7 @@ export default function Home() {
             </div>
           </div>
           <div className="zone-map reveal d2">
-            <iframe src="https://www.google.com/maps?q=Cortijo+Le%C3%B3n+31+29790+V%C3%A9lez-M%C3%A1laga&output=embed" loading="lazy"></iframe>
+            <iframe src="https://www.google.com/maps?q=Cortijo+Le%C3%B3n+31+29700+V%C3%A9lez-M%C3%A1laga&output=embed" loading="lazy"></iframe>
           </div>
         </div>
       </section>
@@ -336,7 +336,7 @@ export default function Home() {
             </div>
             <div className="foot-col">
               <h5>Contacto</h5>
-              <ul><li><a href="tel:+34687537441">+34 687 537 441</a></li><li><a href="mailto:info@gardenecopool.es">info@gardenecopool.es</a></li><li><a href="https://wa.me/34687537441">WhatsApp</a></li><li>Cortijo León, 31<br />29790 Vélez-Málaga</li></ul>
+              <ul><li><a href="tel:+34687537441">+34 687 537 441</a></li><li><a href="mailto:info@gardenecopool.es">info@gardenecopool.es</a></li><li><a href="https://wa.me/34687537441">WhatsApp</a></li><li>Cortijo León, 31<br />29700 Vélez-Málaga</li></ul>
             </div>
           </div>
           <div className="foot-bottom">

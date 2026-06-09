@@ -12,12 +12,12 @@ export default function Page() {
       <p>En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), se facilitan a continuación los datos identificativos del titular de este sitio web.</p>
       
       <div className="box">
-      <p><strong>Titular:</strong> <span className="todo">[DENOMINACIÓN SOCIAL S.L.]</span><br />
-      <strong>CIF:</strong> <span className="todo">[CIF]</span><br />
-      <strong>Domicilio social:</strong> Cortijo León, 31, 29790 Vélez-Málaga (Málaga)<br />
+      <p><strong>Titular:</strong> GARDEN ECO POOL S.L.<br />
+      <strong>CIF:</strong> B22598569<br />
+      <strong>Domicilio social:</strong> Cortijo León, 31, 29700 Vélez-Málaga (Málaga)<br />
       <strong>Correo electrónico:</strong> info@gardenecopool.es<br />
       <strong>Teléfono:</strong> +34 687 537 441<br />
-      <strong>Datos registrales:</strong> Inscrita en el Registro Mercantil de Málaga, <span className="todo">[Tomo, Folio, Hoja, Inscripción]</span></p>
+      <strong>Datos registrales:</strong> Inscrita en el Registro Mercantil de Málaga <span className="todo">[tomo, folio, hoja y número de inscripción — pendiente de completar]</span></p>
       </div>
       
       <h2>1. Objeto</h2>
