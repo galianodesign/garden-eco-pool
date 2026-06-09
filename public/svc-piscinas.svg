@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice"><defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d4eaf2"/><stop offset="1" stop-color="#eef5ec"/></linearGradient>
+<linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3DA6D9"/><stop offset="0.5" stop-color="#0E81B8"/><stop offset="1" stop-color="#1F4660"/></linearGradient>
+<linearGradient id="green" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8DBE38"/><stop offset="1" stop-color="#4C7A06"/></linearGradient>
+<linearGradient id="greenD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4C7A06"/><stop offset="1" stop-color="#3A5E04"/></linearGradient>
+<linearGradient id="navy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a5a7a"/><stop offset="1" stop-color="#1F4660"/></linearGradient>
+</defs><rect width="800" height="600" fill="url(#sky)"/>
+<rect y="120" width="800" height="80" fill="#eef3ee"/>
+<rect y="180" width="800" height="420" fill="url(#water)"/>
+<g opacity="0.4" fill="#fff"><path d="M60 280 L420 280 L405 305 L45 305 Z"/><path d="M120 380 L520 380 L505 408 L105 408 Z"/><path d="M40 470 L360 470 L348 495 L28 495 Z"/></g>
+<!-- escalera -->
+<g fill="#dfeaf0" opacity="0.9"><rect x="640" y="200" width="90" height="14" rx="6"/><rect x="640" y="250" width="90" height="14" rx="6"/><rect x="640" y="300" width="90" height="14" rx="6"/></g>
+<g stroke="#cfe0e8" stroke-width="8" fill="none" opacity="0.8"><line x1="655" y1="195" x2="655" y2="330"/><line x1="715" y1="195" x2="715" y2="330"/></g>
+<!-- plantas borde -->
+<g fill="url(#greenD)"><ellipse cx="60" cy="150" rx="70" ry="50"/><ellipse cx="170" cy="160" rx="55" ry="40"/><ellipse cx="740" cy="150" rx="75" ry="52"/></g></svg>

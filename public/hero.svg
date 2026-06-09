@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#cfe8f2"/><stop offset="0.55" stop-color="#e8f4ee"/><stop offset="1" stop-color="#f2f7ec"/></linearGradient>
+<linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#3DA6D9"/><stop offset="0.5" stop-color="#0E81B8"/><stop offset="1" stop-color="#1F4660"/></linearGradient>
+<linearGradient id="hill" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#8DBE38"/><stop offset="1" stop-color="#4C7A06"/></linearGradient>
+<linearGradient id="hill2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#4C7A06"/><stop offset="1" stop-color="#3A5E04"/></linearGradient>
+<radialGradient id="sun" cx="0.78" cy="0.22" r="0.5">
+<stop offset="0" stop-color="#fff8e6" stop-opacity="0.9"/><stop offset="1" stop-color="#fff8e6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<rect width="1600" height="900" fill="url(#sun)"/>
+<!-- colinas lejanas -->
+<path d="M0 430 Q300 360 620 410 T1180 400 T1600 420 L1600 560 L0 560 Z" fill="#bcd99a" opacity="0.55"/>
+<path d="M0 470 Q360 410 760 450 T1600 460 L1600 620 L0 620 Z" fill="url(#hill)" opacity="0.85"/>
+<!-- arboles/setos -->
+<g opacity="0.95">
+<ellipse cx="180" cy="430" rx="120" ry="95" fill="url(#hill2)"/>
+<ellipse cx="300" cy="455" rx="95" ry="78" fill="#4C7A06"/>
+<ellipse cx="1430" cy="425" rx="135" ry="105" fill="url(#hill2)"/>
+<ellipse cx="1300" cy="460" rx="90" ry="72" fill="#4C7A06"/>
+</g>
+<!-- cesped -->
+<path d="M0 560 Q800 520 1600 560 L1600 900 L0 900 Z" fill="url(#hill)"/>
+<path d="M0 600 Q800 565 1600 600 L1600 900 L0 900 Z" fill="url(#hill2)" opacity="0.6"/>
+<!-- borde piscina -->
+<path d="M260 740 L1340 740 L1480 900 L120 900 Z" fill="#eef3ee"/>
+<path d="M300 760 L1300 760 L1420 900 L180 900 Z" fill="url(#water)"/>
+<!-- reflejos agua -->
+<g opacity="0.35" fill="#ffffff">
+<path d="M380 800 L900 800 L890 818 L370 818 Z"/>
+<path d="M520 850 L1050 850 L1040 866 L510 866 Z"/>
+</g>
+<!-- palmera/planta decorativa derecha -->
+<g transform="translate(1180 560)">
+<rect x="-8" y="0" width="16" height="190" rx="6" fill="#6b4f2a"/>
+<g fill="url(#hill2)"><ellipse cx="0" cy="-6" rx="14" ry="60" transform="rotate(20)"/>
+<ellipse cx="0" cy="-6" rx="14" ry="60" transform="rotate(-20)"/>
+<ellipse cx="0" cy="-6" rx="14" ry="62" transform="rotate(55)"/>
+<ellipse cx="0" cy="-6" rx="14" ry="62" transform="rotate(-55)"/>
+<ellipse cx="0" cy="-10" rx="13" ry="58" transform="rotate(90)"/></g></g>
+</svg>
