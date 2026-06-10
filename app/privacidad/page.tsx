@@ -14,7 +14,7 @@ export default function Page() {
       <h2>1. Responsable del tratamiento</h2>
       <div className="box">
       <p><strong>Responsable:</strong> GARDEN ECO POOL S.L. — CIF B22598569<br />
-      <strong>Dirección:</strong> Cortijo León, 31, 29700 Vélez-Málaga (Málaga)<br />
+      <strong>Dirección:</strong> Cortijo El León, 31, 29790 Vélez-Málaga (Málaga)<br />
       <strong>Email:</strong> info@gardenecopool.es · <strong>Teléfono:</strong> +34 687 537 441</p>
       </div>
       

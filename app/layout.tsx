@@ -63,9 +63,9 @@ export default function RootLayout({
     priceRange: "€€",
     address: {
       "@type": "PostalAddress",
-      streetAddress: "Cortijo León, 31",
+      streetAddress: "Cortijo El León, 31",
       addressLocality: "Vélez-Málaga",
-      postalCode: "29700",
+      postalCode: "29790",
       addressRegion: "Málaga",
       addressCountry: "ES",
     },

@@ -14,7 +14,7 @@ export default function Page() {
       <div className="box">
       <p><strong>Titular:</strong> GARDEN ECO POOL S.L.<br />
       <strong>CIF:</strong> B22598569<br />
-      <strong>Domicilio social:</strong> Cortijo León, 31, 29700 Vélez-Málaga (Málaga)<br />
+      <strong>Domicilio social:</strong> Cortijo El León, 31, 29790 Vélez-Málaga (Málaga)<br />
       <strong>Correo electrónico:</strong> info@gardenecopool.es<br />
       <strong>Teléfono:</strong> +34 687 537 441<br />
       <strong>Datos registrales:</strong> Inscrita en el Registro Mercantil de Málaga <span className="todo">[tomo, folio, hoja y número de inscripción — pendiente de completar]</span></p>
