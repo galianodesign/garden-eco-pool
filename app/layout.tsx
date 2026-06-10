@@ -41,6 +41,21 @@ export const metadata: Metadata = {
     title: "Garden Eco Pool | Piscinas, jardines y reformas en Vélez-Málaga",
     description:
       "Mantenimiento profesional de piscinas y jardines, reformas y servicios para comunidades en Vélez-Málaga y Costa del Sol. Presupuesto gratis.",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Garden Eco Pool — Piscinas, jardines y reformas en Vélez-Málaga",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Garden Eco Pool | Piscinas, jardines y reformas en Vélez-Málaga",
+    description:
+      "Mantenimiento profesional de piscinas y jardines, reformas y servicios para comunidades en Vélez-Málaga y Costa del Sol. Presupuesto gratis.",
+    images: ["/og-image.png"],
   },
   robots: { index: true, follow: true },
 };
